@@ -1,13 +1,28 @@
 .item{
 	border-radius: 15px 50px;
-	background-color: #eaf1fc;
+	background-color: #dbe7f9;
 	padding: 2%;
+	margin-bottom: 5%;
 }
 
-.status-bar{
-	
+.statusHeaders{
+	text-align: center;
+}
+
+.featurette-divider{
+		margin-top:5% !important;
+		margin-bottom:5% !important;
 }
 
 .description{
 	text-align: center;
+}
+
+/******************
+    MEDIA QUERIES
+******************/
+@media only screen and (max-width: 990px) {
+	.statusHeaders{
+		display:none;
+	}
 }
