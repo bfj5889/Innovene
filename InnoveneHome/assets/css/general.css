@@ -35,3 +35,31 @@ footer{
 		background-repeat: no-repeat;
 	}
 }
+
+/******************
+    CARDS
+******************/
+.card{
+    text-align:center;
+}
+
+/******************
+    EMPLOYEE NAMES * DESC
+******************/
+.emp{
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    padding: .5%;
+    font-size: 1em;
+}
+
+/******************
+    Bootstrap override
+******************/
+.row{
+    margin: 0;
+    padding: 0;
+}
+
+
