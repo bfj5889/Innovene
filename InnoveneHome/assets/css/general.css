@@ -8,6 +8,14 @@ body{
     width: 100%;
 }
 
+.orangeHeader{
+    background-color: #FFC107;
+    color: #fff;
+    padding: 1%;
+    padding-left: 8%;
+    margin: 0;
+}
+
 h2{
 	color: #2196F3;
 	text-align: center;
