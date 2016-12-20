@@ -15,15 +15,40 @@ h2{
 
 
 .innoveneImage{
-	background-image: url('../images/LogoNameTransparent.png');
+	/* ../images/LogoNameTransparent.png */
+	background-image: url('');
 	background-position: center;
 	background-repeat: no-repeat;
+	height: 17%;
+}
+
+.headerLabel{
+		font-family: 'rimouski', sans-serif;
+		font-size: 10 !important;
+		text-align: center;
+		color: #1E88E5;
+		line-height: 1 !important;
+		width: 40%;
+		margin-left: 35%;
+		
+}
+.subHeader{
+	font-size: 15;
+	color: #00C853;
 }
 
 footer{
 	margin-bottom: 0;
 	padding-bottom: 0;
 }
+/******************
+    Header Font
+******************/
+@font-face {
+    font-family:"rimouski";
+    src: url("../fonts/rimouski-sb.ttf") /* TTF file for CSS3 browsers */
+}
+
 
 /******************
     MEDIA QUERIES
@@ -33,9 +58,15 @@ footer{
 		background-image: url('../images/LogoIconTransparent.png');
 		background-position: center;
 		background-repeat: no-repeat;
+		height: 17%;
+	}
+	.headerLabel{
+		 color: transparent;
+	}
+	.subHeader{
+		 color: transparent;
 	}
 }
-
 /******************
     CARDS
 ******************/
