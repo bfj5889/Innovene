@@ -22,9 +22,11 @@ h2{
 	height: 17%;
 }
 
+.headerLabel h1{
+	font-size: 60;
+}
 .headerLabel{
 		font-family: 'rimouski', sans-serif;
-		font-size: 10 !important;
 		text-align: center;
 		color: #1E88E5;
 		line-height: 1 !important;
