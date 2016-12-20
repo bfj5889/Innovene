@@ -1,7 +1,7 @@
 .item{
 	border-radius: 15px 50px;
 	background-color: #dbe7f9;
-	padding: 2%;
+	padding: 1% !important;
 	margin-bottom: 3% !important;
 }
 
