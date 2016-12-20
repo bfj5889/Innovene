@@ -24,6 +24,8 @@ h2{
 
 .headerLabel h1{
 	font-size: 60;
+	margin: 0;
+	background-color: none;
 }
 .headerLabel{
 		font-family: 'rimouski', sans-serif;
