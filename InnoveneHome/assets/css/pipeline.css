@@ -1,8 +1,8 @@
 .item{
 	border-radius: 15px 50px;
 	background-color: #dbe7f9;
-	padding: 1% !important;
-	margin-bottom: 3% !important;
+	padding: % !important;
+	margin-bottom: 1.5% !important;
 }
 
 .statusHeaders{
@@ -10,8 +10,8 @@
 }
 
 .featurette-divider{
-		margin-top:5% !important;
-		margin-bottom:5% !important;
+		margin-top: 3% !important;
+		margin-bottom: 3% !important;
 }
 
 .description{
